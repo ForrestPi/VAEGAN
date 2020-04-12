@@ -21,11 +21,11 @@ try VAE  GANLoss + SSIM loss  in anomaly Detection
 
 ## 针对木制纹理结构数据进行探索
 主要测试VAE+SSIM loss VAE+SPL loss 以及VAE+GAN loss 验证模型对复杂纹理数据集的重建性能
-正常/异常测试数据
+正常/异常测试数据    
 ![img](./results/0004.PNG)
 
-重建后的结果分析
+重建后的结果分析    
 ![img](./results/0005.PNG)
 
-纹理恢复数据
+纹理恢复数据    
 ![img](./results/0006.PNG)
